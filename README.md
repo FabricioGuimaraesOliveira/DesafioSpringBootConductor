@@ -18,3 +18,6 @@ Os testes automatizadas podem ser executados com o comando abaixo:
 mvn test
 
 ```
+Você pode encontrar os métodos que foram criados nesse desafio utilizando o Swagger : http://localhost:8080/swagger-ui.html
+
+![Alt text](swagger.png?raw=true "Optional Title")
